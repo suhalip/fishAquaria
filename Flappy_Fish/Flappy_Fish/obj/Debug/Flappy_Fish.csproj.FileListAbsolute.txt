@@ -1,0 +1,10 @@
+C:\Users\socce\CS-114\Flappy_Fish\Flappy_Fish\bin\Debug\Flappy_Fish.exe.config
+C:\Users\socce\CS-114\Flappy_Fish\Flappy_Fish\bin\Debug\Flappy_Fish.exe
+C:\Users\socce\CS-114\Flappy_Fish\Flappy_Fish\bin\Debug\Flappy_Fish.pdb
+C:\Users\socce\CS-114\Flappy_Fish\Flappy_Fish\obj\Debug\Flappy_Fish.csproj.AssemblyReference.cache
+C:\Users\socce\CS-114\Flappy_Fish\Flappy_Fish\obj\Debug\Flappy_Fish.FlappyFish.resources
+C:\Users\socce\CS-114\Flappy_Fish\Flappy_Fish\obj\Debug\Flappy_Fish.Properties.Resources.resources
+C:\Users\socce\CS-114\Flappy_Fish\Flappy_Fish\obj\Debug\Flappy_Fish.csproj.GenerateResource.cache
+C:\Users\socce\CS-114\Flappy_Fish\Flappy_Fish\obj\Debug\Flappy_Fish.csproj.CoreCompileInputs.cache
+C:\Users\socce\CS-114\Flappy_Fish\Flappy_Fish\obj\Debug\Flappy_Fish.exe
+C:\Users\socce\CS-114\Flappy_Fish\Flappy_Fish\obj\Debug\Flappy_Fish.pdb
