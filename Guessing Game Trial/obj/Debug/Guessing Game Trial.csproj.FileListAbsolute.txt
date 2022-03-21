@@ -1,0 +1,11 @@
+C:\Users\jenni\OneDrive - SNHU\CS114\Projects\Guessing Game Trial\Guessing Game Trial\obj\Debug\Guessing Game Trial.csproj.AssemblyReference.cache
+C:\Users\jenni\OneDrive - SNHU\CS114\Projects\Guessing Game Trial\Guessing Game Trial\obj\Debug\Guessing Game Trial.csproj.SuggestedBindingRedirects.cache
+C:\Users\jenni\OneDrive - SNHU\CS114\Projects\Guessing Game Trial\Guessing Game Trial\obj\Debug\Guessing_Game_Trial.Form1.resources
+C:\Users\jenni\OneDrive - SNHU\CS114\Projects\Guessing Game Trial\Guessing Game Trial\obj\Debug\Guessing_Game_Trial.Properties.Resources.resources
+C:\Users\jenni\OneDrive - SNHU\CS114\Projects\Guessing Game Trial\Guessing Game Trial\obj\Debug\Guessing Game Trial.csproj.GenerateResource.cache
+C:\Users\jenni\OneDrive - SNHU\CS114\Projects\Guessing Game Trial\Guessing Game Trial\obj\Debug\Guessing Game Trial.csproj.CoreCompileInputs.cache
+C:\Users\jenni\OneDrive - SNHU\CS114\Projects\Guessing Game Trial\Guessing Game Trial\bin\Debug\Guessing Game Trial.exe.config
+C:\Users\jenni\OneDrive - SNHU\CS114\Projects\Guessing Game Trial\Guessing Game Trial\bin\Debug\Guessing Game Trial.exe
+C:\Users\jenni\OneDrive - SNHU\CS114\Projects\Guessing Game Trial\Guessing Game Trial\bin\Debug\Guessing Game Trial.pdb
+C:\Users\jenni\OneDrive - SNHU\CS114\Projects\Guessing Game Trial\Guessing Game Trial\obj\Debug\Guessing Game Trial.exe
+C:\Users\jenni\OneDrive - SNHU\CS114\Projects\Guessing Game Trial\Guessing Game Trial\obj\Debug\Guessing Game Trial.pdb
